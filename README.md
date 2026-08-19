@@ -97,7 +97,9 @@ Season-wise IPL winners
 Key Performance Indicators (KPIs)
 Interactive charts and visualizations
 
-* Project Structure
+
+* Project Structuree
+  
 IPL-Data-Analytics-Dashboard-2008-2018/
 │
 ├── data/

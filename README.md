@@ -104,9 +104,13 @@ IPL-Data-Analytics-Dashboard-2008-2018/
 │
 ├── data/
 │   └── IPL Dataset_2018.xlsx
-|
+│
 ├── screenshots/
-│   └── Dashboard screenshots
+│   ├── Dashboard-Overview.png
+│   ├── Matches-Win-Analysis.png
+│   ├── Toss-Decision-Analysis.png
+│   ├── Top-Venue-Analysis.png
+│   └── MOM-Winner-Analysis.png
 │
 └── README.md
 

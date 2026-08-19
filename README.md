@@ -101,13 +101,13 @@ Interactive charts and visualizations
 * Project Structuree
   
 IPL-Data-Analytics-Dashboard-2008-2018/
-│|
+│
 ├── data/
 │   └── IPL Dataset_2018.xlsx
-||
+|
 ├── screenshots/
 │   └── Dashboard screenshots
-│|
+│
 └── README.md
 
 * Key Insights

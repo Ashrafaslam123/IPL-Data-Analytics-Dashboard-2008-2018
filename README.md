@@ -101,25 +101,23 @@ Interactive charts and visualizations
 * Project Structuree
   
 IPL-Data-Analytics-Dashboard-2008-2018/
-│
+│|
 ├── data/
 │   └── IPL Dataset_2018.xlsx
-│
+||
 ├── screenshots/
 │   └── Dashboard screenshots
-│
+│|
 └── README.md
 
 * Key Insights
-
 Some of the major insights explored in this project include:
-
-Performance comparison of IPL teams based on total match wins.
-Toss-winning decisions and their strategic patterns.
-Most frequently used IPL venues.
-Players with notable Man of the Match performances.
-Season-wise IPL champions and runners-up.
-Historical IPL trends from 2008 to 2018.
+• Performance comparison of IPL teams based on total match wins.
+• Toss-winning decisions and their strategic patterns.
+• Most frequently used IPL venues.
+• Players with notable Man of the Match performances.
+• Season-wise IPL champions and runners-up.
+• Historical IPL trends from 2008 to 2018.
 
 * How to Use the Project
 Clone this repository.
